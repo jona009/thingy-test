@@ -1,0 +1,12 @@
+body {
+  margin: 2;
+  text-align: center;
+  height: 100vh;
+  background:linear-gradient(
+      to right,
+      blue 0%,
+      green 30%,
+      green 70%,
+      blue 100%
+      )
+}
